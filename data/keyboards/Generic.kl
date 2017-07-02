@@ -407,6 +407,9 @@ key 484   B                 FUNCTION
 key 580   APP_SWITCH
 key 582   VOICE_ASSIST
 
+# Huawei Smart Key
+key 194 SMART_KEY
+
 # Keys defined by HID usages
 key usage 0x0c006F BRIGHTNESS_UP
 key usage 0x0c0070 BRIGHTNESS_DOWN
